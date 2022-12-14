@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
-"""Analyse a given dataset of sick people and their contacts. Identify
-characteristics related to disease spreading as set out in the coursework
-brief.
-Student number:
-"""
+
 
 import sys
 import os.path
