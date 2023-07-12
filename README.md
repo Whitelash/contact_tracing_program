@@ -1,7 +1,4 @@
 # Contact Tracing Program
-This is an application that analyses a small dataset to determine how a virus is spreading based on contact tracing dataset 
-to determine how a virus is spreading based on contact tracing data.
-
 Below is a set of instructions that led to the creation of this program.
 
 ## Running the contact tracing program
